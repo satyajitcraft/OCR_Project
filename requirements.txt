@@ -1,0 +1,13 @@
+streamlit==1.28.1
+opencv-python==4.8.1.78
+pytesseract==0.3.10
+Pillow==10.0.1
+transformers==4.35.0
+torch==2.1.0
+pdf2image==1.16.3
+numpy==1.24.3
+pandas==1.5.3
+easyocr==1.7.0
+re
+io
+base64
